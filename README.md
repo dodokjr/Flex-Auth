@@ -1,5 +1,6 @@
 # flex-auth v2 — zero dependency
 
+# main
 Framework auth Node.js + TypeScript yang **tidak memakai library/framework lain**. Semuanya dibangun di atas modul bawaan Node.js.
 
 | Dulu (v1) | Sekarang (v2, buatan sendiri) |
